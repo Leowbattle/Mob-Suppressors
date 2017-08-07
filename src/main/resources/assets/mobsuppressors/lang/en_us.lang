@@ -1,0 +1,16 @@
+tile.endersuppressor.name=Ender Suppressor
+tile.creepersuppressor.name=Creeper Suppressor
+tile.zombiesuppressor.name=Zombie Suppressor
+
+tile.suppressionpedestal.name=Suppression Pedestal
+tile.suppressiontower.name=Suppression Tower
+tile.suppressionaltarcore.name=Suppression Altar Core
+
+tile.fleshblock.name=Block Of Flesh
+tile.enderpearlblock.name=Block Of Ender Pearl
+
+item.enderrod.name=Ender Rod
+item.dynamite.name=Dynamite
+item.sausage.name=Sausage
+
+itemGroup.mobsuppressors=Mob Suppressors

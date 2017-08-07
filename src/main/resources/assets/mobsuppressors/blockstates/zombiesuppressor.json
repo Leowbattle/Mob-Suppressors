@@ -1,0 +1,14 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "is_powered=false": {
+            "model": "mobsuppressors:zombiesuppressor_unpowered"
+        }, 
+        "is_powered=true": {
+            "model": "mobsuppressors:zombiesuppressor_powered"
+        }, 
+        "inventory": {
+            "model": "mobsuppressors:zombiesuppressor_unpowered"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "normal": {
+            "model": "mobsuppressors:suppressionaltarcore"
+        },
+        "inventory": {
+            "model": "mobsuppressors:suppressionaltarcore", 
+            "transform": "forge:default-block"
+        }
+    }
+}

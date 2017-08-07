@@ -1,0 +1,12 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "normal": {
+            "model": "mobsuppressors:fleshblock"
+        },
+        "inventory": {
+            "model": "mobsuppressors:fleshblock", 
+            "transform": "forge:default-block"
+        }
+    }
+}

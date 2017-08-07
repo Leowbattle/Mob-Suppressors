@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube", 
+    "textures": {
+        "down": "mobsuppressors:blocks/zombiesuppressor_unpowered_end",
+         "up": "mobsuppressors:blocks/zombiesuppressor_unpowered_end",
+      "north": "mobsuppressors:blocks/zombiesuppressor_unpowered_side",
+      "south": "mobsuppressors:blocks/zombiesuppressor_unpowered_side",
+       "west": "mobsuppressors:blocks/zombiesuppressor_unpowered_side",
+       "east": "mobsuppressors:blocks/zombiesuppressor_unpowered_side",
+   "particle": "mobsuppressors:blocks/zombiesuppressor_unpowered_side"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "normal": {
+	        "model": "mobsuppressors:suppressionpedestal"
+	    },
+	    "inventory": {
+            "model": "mobsuppressors:suppressionpedestal", 
+	        "transform": "forge:default-block"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube", 
+    "textures": {
+        "down": "mobsuppressors:blocks/endersuppressor_powered_end",
+         "up": "mobsuppressors:blocks/endersuppressor_powered_end",
+      "north": "mobsuppressors:blocks/endersuppressor_powered_side",
+      "south": "mobsuppressors:blocks/endersuppressor_powered_side",
+       "west": "mobsuppressors:blocks/endersuppressor_powered_side",
+       "east": "mobsuppressors:blocks/endersuppressor_powered_side",
+   "particle": "mobsuppressors:blocks/endersuppressor_powered_side"
+    }
+}

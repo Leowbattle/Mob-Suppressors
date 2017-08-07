@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mobsuppressors",
+  "name": "Mob Suppressors",
+  "description": "A mod that adds blocks that can suppress or empower mobs. The blocks need the drops from the mob to run. For example the Ender Suppressor needs Ender Pearls to run, and the Creeper Suppressor needs Gunpowder to run.",
+  "version": "",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["meee39"],
+  "credits": "\nTeam Leader: meee39\nProgramming: meee39\nTextures: meee39 and Ash\nTesting: AddUpp",
+  "logoFile": "modlogo",
+  "screenshots": [],
+  "dependencies": []
+}
+]

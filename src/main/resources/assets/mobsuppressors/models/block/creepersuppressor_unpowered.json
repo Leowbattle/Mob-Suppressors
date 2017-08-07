@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube", 
+    "textures": {
+        "down": "mobsuppressors:blocks/creepersuppressor_unpowered_end",
+         "up": "mobsuppressors:blocks/creepersuppressor_unpowered_end",
+      "north": "mobsuppressors:blocks/creepersuppressor_unpowered_side",
+      "south": "mobsuppressors:blocks/creepersuppressor_unpowered_side",
+       "west": "mobsuppressors:blocks/creepersuppressor_unpowered_side",
+       "east": "mobsuppressors:blocks/creepersuppressor_unpowered_side",
+   "particle": "mobsuppressors:blocks/creepersuppressor_unpowered_side"
+    }
+}

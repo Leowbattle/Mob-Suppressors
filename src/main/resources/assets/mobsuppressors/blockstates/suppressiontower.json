@@ -1,0 +1,12 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "normal": {
+            "model": "mobsuppressors:suppressiontower"
+        },
+        "inventory": {
+            "model": "mobsuppressors:suppressiontower", 
+            "transform": "forge:default-block"
+        }
+    }
+}
